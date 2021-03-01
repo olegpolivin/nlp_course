@@ -1,0 +1,20 @@
+--2021-03-01 18:54:09--  https://www.dropbox.com/s/yy2zqh34dyhv07i/data.txt?dl=1
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.67.18, 2620:100:6023:18::a27d:4312
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.67.18|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /s/dl/yy2zqh34dyhv07i/data.txt [following]
+--2021-03-01 18:54:10--  https://www.dropbox.com/s/dl/yy2zqh34dyhv07i/data.txt
+Reusing existing connection to www.dropbox.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc51cbeca391ead6bd95c5429b4.dl.dropboxusercontent.com/cd/0/get/BJ1yguc3L1TwYbRQiyORDGyPPGtFg-zJ2WFphY3Y1i-fR6-RGx5dlb6rir2ij2gs18ueAninqlfVb1dshNo-aK4ufw661tkWBI-BuduVbf5PDA/file?dl=1# [following]
+--2021-03-01 18:54:10--  https://ucc51cbeca391ead6bd95c5429b4.dl.dropboxusercontent.com/cd/0/get/BJ1yguc3L1TwYbRQiyORDGyPPGtFg-zJ2WFphY3Y1i-fR6-RGx5dlb6rir2ij2gs18ueAninqlfVb1dshNo-aK4ufw661tkWBI-BuduVbf5PDA/file?dl=1
+Resolving ucc51cbeca391ead6bd95c5429b4.dl.dropboxusercontent.com (ucc51cbeca391ead6bd95c5429b4.dl.dropboxusercontent.com)... 162.125.67.15, 2620:100:6023:15::a27d:430f
+Connecting to ucc51cbeca391ead6bd95c5429b4.dl.dropboxusercontent.com (ucc51cbeca391ead6bd95c5429b4.dl.dropboxusercontent.com)|162.125.67.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12905335 (12M) [application/binary]
+Saving to: ‘data.txt’
+
+data.txt             61%[===========>        ]   7,56M   830KB/s    eta 7s     data.txt             62%[===========>        ]   7,73M   823KB/s    eta 6s     data.txt             63%[===========>        ]   7,76M   777KB/s    eta 6s     data.txt             64%[===========>        ]   7,94M   779KB/s    eta 6s     data.txt             65%[============>       ]   8,11M   779KB/s    eta 6s     data.txt             67%[============>       ]   8,28M   779KB/s    eta 6s     data.txt             68%[============>       ]   8,45M   779KB/s    eta 5s     data.txt             70%[=============>      ]   8,62M   780KB/s    eta 5s     data.txt             71%[=============>      ]   8,80M   779KB/s    eta 5s     data.txt             72%[=============>      ]   8,97M   780KB/s    eta 5s     data.txt             74%[=============>      ]   9,14M   778KB/s    eta 5s     data.txt             75%[==============>     ]   9,31M   779KB/s    eta 4s     data.txt             77%[==============>     ]   9,48M   780KB/s    eta 4s     data.txt             78%[==============>     ]   9,66M   779KB/s    eta 4s     data.txt             79%[==============>     ]   9,83M   779KB/s    eta 4s     data.txt             81%[===============>    ]  10,00M   780KB/s    eta 4s     data.txt             82%[===============>    ]  10,17M   787KB/s    eta 3s     data.txt             84%[===============>    ]  10,34M   831KB/s    eta 3s     data.txt             85%[================>   ]  10,51M   831KB/s    eta 3s     data.txt             86%[================>   ]  10,69M   831KB/s    eta 3s     data.txt             88%[================>   ]  10,86M   831KB/s    eta 3s     data.txt             89%[================>   ]  11,03M   831KB/s    eta 2s     data.txt             91%[=================>  ]  11,20M   831KB/s    eta 2s     data.txt             92%[=================>  ]  11,37M   831KB/s    eta 2s     data.txt             93%[=================>  ]  11,55M   831KB/s    eta 2s     data.txt             95%[==================> ]  11,72M   831KB/s    eta 2s     data.txt             96%[==================> ]  11,89M   831KB/s    eta 1s     data.txt             98%[==================> ]  12,06M   831KB/s    eta 1s     data.txt             99%[==================> ]  12,23M   831KB/s    eta 1s     data.txt            100%[===================>]  12,31M   834KB/s    in 15s     
+
+2021-03-01 18:54:26 (820 KB/s) - ‘data.txt’ saved [12905335/12905335]
+
